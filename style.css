@@ -1,0 +1,185 @@
+@charset "utf-8";
+*{
+    margin: 0px;
+    padding:0px ;
+}
+p{
+    color: blue;
+}
+.p1{
+    color: rgb(10, 180, 24);
+}
+.p2{
+    color: red;
+}
+.p3{
+    color: red;
+}
+.p4{
+    color: rgb(12, 183, 206);
+}
+
+.p6{
+    color: black;
+}
+
+.bgstyle p:nth-child(1){
+    width: 1540px;
+    height: 80px;
+    background-color: gray;
+    background-image: url(images/banner.jpg);
+}
+.p7{
+    color: red;
+}
+.p8{
+    color: red;
+}
+.p9{
+    color: red;
+}
+.p10{
+    color: red;
+}
+.p11{
+    color: red;
+}
+.p12{
+    color: red;
+}
+.p13{
+    color: red;
+}
+.p14{
+    color: red;
+}
+.p15{
+    color: red;
+}
+.p16{
+    color: red;
+}
+.p17{
+    color: red;
+}
+.p18{
+    color: red;
+}
+.p19{
+    color: red;
+}
+.p20{
+    color: red;
+}
+.p21{
+    color: red;
+}
+.p22{
+    color: red;
+}
+.p23{
+    color: red;
+}
+.a1{
+    color: black;
+}
+.a2{
+    color: rgb(51, 185, 18);
+}
+.a3{
+    color: rgb(51, 185, 18);
+}
+.a4{
+    color: rgb(51, 185, 18);
+}
+.a5{
+    color: rgb(51, 185, 18);
+}
+.a6{
+    color: rgb(51, 185, 18);
+}
+.a7{
+    color: rgb(51, 185, 18);
+}
+.a8{
+    color: rgb(51, 185, 18);
+}
+.q1{
+    color: black;
+}
+.q2{
+    color: rgb(221, 225, 15);
+}
+.q3{
+    color: rgb(221, 225, 15);
+}
+.q4{
+    color: rgb(221, 225, 15);
+}
+.q5{
+    color: black;
+}
+.w1{
+    color: blue;
+}
+.w2{
+    color: blue;
+}
+.w3{
+    color: blue;
+}
+.w4{
+    color: black;
+}
+.w5{
+    color: black;
+}
+.e1{
+    color: tomato;
+}
+.e2{
+    color: tomato;
+}
+.e3{
+    color: tomato;
+}
+.e4{
+    color: tomato;
+}
+.e5{
+    color: tomato;
+}
+.e6{
+    color: tomato;
+}
+.e7{
+    color: tomato;
+}
+.r1{
+    color: rgb(12, 183, 206);
+}
+.r2{
+    color: rgb(12, 183, 206);
+}
+.r3{
+    color: rgb(12, 183, 206);
+}
+.r4{
+    color: black;
+}
+.bjimg{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    min-width: 1000px;
+    z-index: -10;
+    zoom: 1;
+    background-color: #fff;
+    background-image:url(images/wy3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-position: center 0;
